@@ -58,14 +58,14 @@
                     <div class="scrollable hover" style="max-height: 250px">
                         <div class="list list-row">
                             <div class="list-item" data-id="13">
-                                <div><a href="video.detail.html"><span class="w-32 avatar gd-primary">L</span></a></div>
+                                <div><a href="video.detail.php"><span class="w-32 avatar gd-primary">L</span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">Thanks! Awesome to see good support on Twitter</div>
                                 </div>
                             </div>
 
                             <div class="list-item" data-id="10">
-                                <div><a href="video.detail.html"><span class="w-32 avatar gd-danger"><img
+                                <div><a href="video.detail.php"><span class="w-32 avatar gd-danger"><img
                                         src="../assets/img/a10.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">Developers of <a href="#">@iAI</a>, the AI assistant
@@ -74,7 +74,7 @@
                                 </div>
                             </div>
                             <div class="list-item" data-id="8">
-                                <div><a href="video.detail.html"><span class="w-32 avatar gd-success"><img
+                                <div><a href="video.detail.php"><span class="w-32 avatar gd-success"><img
                                         src="../assets/img/a8.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">The biggest software developer conference</div>
@@ -95,7 +95,7 @@
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="page.profile.html"><span>Profile</span> </a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="settings.html"><span>Account Settings</span> </a><a
+                    <a class="dropdown-item" href="settings.php"><span>Account Settings</span> </a><a
                             class="dropdown-item" href="signin.1.html">Sign out</a></div>
             </li><!-- Navarbar toggle btn -->
 
@@ -109,15 +109,15 @@
                 <div class="nav-border b-primary" data-nav>
                     <ul class="nav bg">
                         <li class="nav-header hidden-folded"><span class="text-muted">Main</span></li>
-                        <li><a href="dashboard.html"><span class="nav-icon"><i data-feather="home"></i></span>
+                        <li><a href="dashboard.php"><span class="nav-icon"><i data-feather="home"></i></span>
                             <span class="nav-text">Dashboard</span></a></li>
 
                         <li class="nav-header hidden-folded"><span class="text-muted">Videos</span></li>
 
-                        <li><a href="create_video.html"><span class="nav-icon"><i
+                        <li><a href="create_video.php"><span class="nav-icon"><i
                                 data-feather="video"></i></span> <span class="nav-text">Create Videos</span> <span
                                 class="nav-badge"></span></a></li>
-                        <li><a href="edit_video.html"><span class="nav-icon"><i
+                        <li><a href="edit_video.php"><span class="nav-icon"><i
                                 data-feather="airplay"></i></span> <span class="nav-text">Edit Videos</span> <span
                                 class="nav-badge"></span></a></li>
                         <li><a href="video.html"><span class="nav-icon"><i data-feather="youtube"></i></span>
@@ -126,16 +126,16 @@
 
                         <li class="nav-header hidden-folded"><span class="text-muted">Playlists</span></li>
 
-                        <li><a href="create_playlist.html"><span class="nav-icon"><i
+                        <li><a href="create_playlist.php"><span class="nav-icon"><i
                                 data-feather="video"></i></span> <span class="nav-text">Create Playlists</span> <span
                                 class="nav-badge"></span></a></li>
-                        <li><a href="playlist.html"><span class="nav-icon"><i
+                        <li><a href="playlist.php"><span class="nav-icon"><i
                                 data-feather="youtube"></i></span> <span class="nav-text">View Playlists</span> <span
                                 class="nav-badge"></span></a></li>
 
                         <li class="nav-header hidden-folded"><span class="text-muted">Settings</span></li>
 
-                        <li><a href="settings.html"><span class="nav-icon"><i
+                        <li><a href="settings.php"><span class="nav-icon"><i
                                 data-feather="settings"></i></span> <span class="nav-text">Account Settings</span> <span
                                 class="nav-badge"></span></a></li>
                     </ul>
@@ -208,7 +208,7 @@
                             <div class="col-12" data-id="312058991" data-category="all" data-tag="France"
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/04/b6/28/04b62834-121f-b3af-47b3-2485ff499e14/mzaf_4474193750897158038.plus.aac.p.m4a">
                                 <div class="list-item r">
-                                    <div class="media"><a href="playlist_detail.html#312058991" class="ajax media-content"
+                                    <div class="media"><a href="playlist_detail.php#312058991" class="ajax media-content"
                                                           style="background-image:url(../assets/img/z1.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
@@ -221,7 +221,7 @@
                                         </div>
                                     </div>
                                     <div class="list-content text-center">
-                                        <div class="list-body"><a href="playlist_detail.html#312058991"
+                                        <div class="list-body"><a href="playlist_detail.php#312058991"
                                                                   class="list-title title ajax h-1x">This Girl </a><a
                                                 href="music.artist.html#312058991"
                                                 class="list-subtitle d-block text-muted subtitle ajax h-1x">Kungs &amp;
@@ -243,7 +243,7 @@
                             <div class="col-12" data-id="86035248" data-category="R&amp;B" data-tag="USA"
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/ca/8c/3d/ca8c3dc7-51cf-78b8-4fbc-7607893c155f/mzaf_6545808409327260529.plus.aac.p.m4a">
                                 <div class="list-item r">
-                                    <div class="media"><a href="playlist_detail.html#86035248" class="ajax media-content"
+                                    <div class="media"><a href="playlist_detail.php#86035248" class="ajax media-content"
                                                           style="background-image:url(../assets/img/z3.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
@@ -256,7 +256,7 @@
                                         </div>
                                     </div>
                                     <div class="list-content text-center">
-                                        <div class="list-body"><a href="playlist_detail.html#86035248"
+                                        <div class="list-body"><a href="playlist_detail.php#86035248"
                                                                   class="list-title title ajax h-1x">Blurred
                                             Lines </a><a href="music.artist.html#86035248"
                                                          class="list-subtitle d-block text-muted subtitle ajax h-1x">Robin
@@ -278,7 +278,7 @@
                             <div class="col-12" data-id="338965882" data-category="Pop" data-tag="United Kingdom"
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/65/ca/83/65ca8336-2e09-a0bb-a810-2a6b8864e770/mzaf_3545919152242528717.plus.aac.p.m4a">
                                 <div class="list-item r">
-                                    <div class="media"><a href="playlist_detail.html#338965882" class="ajax media-content"
+                                    <div class="media"><a href="playlist_detail.php#338965882" class="ajax media-content"
                                                           style="background-image:url(../assets/img/z2.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
@@ -291,7 +291,7 @@
                                         </div>
                                     </div>
                                     <div class="list-content text-center">
-                                        <div class="list-body"><a href="playlist_detail.html#338965882"
+                                        <div class="list-body"><a href="playlist_detail.php#338965882"
                                                                   class="list-title title ajax h-1x">Shape Of You </a><a
                                                 href="music.artist.html#338965882"
                                                 class="list-subtitle d-block text-muted subtitle ajax h-1x">Ed
@@ -313,7 +313,7 @@
                             <div class="col-12" data-id="258710574" data-category="Pop" data-tag="USA"
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/03/c0/60/03c060ce-1617-e556-def2-4fd34d7e1f24/mzaf_8527312642501236756.plus.aac.p.m4a">
                                 <div class="list-item r">
-                                    <div class="media"><a href="playlist_detail.html#258710574" class="ajax media-content"
+                                    <div class="media"><a href="playlist_detail.php#258710574" class="ajax media-content"
                                                           style="background-image:url(../assets/img/z5.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
@@ -326,7 +326,7 @@
                                         </div>
                                     </div>
                                     <div class="list-content text-center">
-                                        <div class="list-body"><a href="playlist_detail.html#258710574"
+                                        <div class="list-body"><a href="playlist_detail.php#258710574"
                                                                   class="list-title title ajax h-1x">Stressed Out </a><a
                                                 href="music.artist.html#258710574"
                                                 class="list-subtitle d-block text-muted subtitle ajax h-1x">Twenty One
@@ -348,7 +348,7 @@
                             <div class="col-12" data-id="92570808" data-category="Pop" data-tag="Canada"
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/64/3d/c1/643dc113-29d1-08de-78e2-a4ab4c3f1730/mzaf_5420937162202173294.plus.aac.p.m4a">
                                 <div class="list-item r">
-                                    <div class="media"><a href="playlist_detail.html#92570808" class="ajax media-content"
+                                    <div class="media"><a href="playlist_detail.php#92570808" class="ajax media-content"
                                                           style="background-image:url(../assets/img/z4.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
@@ -361,7 +361,7 @@
                                         </div>
                                     </div>
                                     <div class="list-content text-center">
-                                        <div class="list-body"><a href="playlist_detail.html#92570808"
+                                        <div class="list-body"><a href="playlist_detail.php#92570808"
                                                                   class="list-title title ajax h-1x">Rude </a><a
                                                 href="music.artist.html#92570808"
                                                 class="list-subtitle d-block text-muted subtitle ajax h-1x">Magic!</a>
@@ -390,7 +390,7 @@
                             <div class="col-6 col-md-3" data-id="92570808" data-category="Pop" data-tag="Canada"
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/64/3d/c1/643dc113-29d1-08de-78e2-a4ab4c3f1730/mzaf_5420937162202173294.plus.aac.p.m4a">
                                 <div class="list-item r">
-                                    <div class="media"><a href="playlist_detail.html#92570808" class="ajax media-content"
+                                    <div class="media"><a href="playlist_detail.php#92570808" class="ajax media-content"
                                                           style="background-image:url(../assets/img/pastor.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
@@ -403,7 +403,7 @@
                                         </div>
                                     </div>
                                     <div class="list-content text-center">
-                                        <div class="list-body"><a href="playlist_detail.html#92570808"
+                                        <div class="list-body"><a href="playlist_detail.php#92570808"
                                                                   class="list-title title ajax h-1x">Rude </a><a
                                                 href="music.artist.html#92570808"
                                                 class="list-subtitle d-block text-muted subtitle ajax h-1x">Magic!</a>
@@ -414,7 +414,7 @@
                             <div class="col-6 col-md-3" data-id="312058991" data-category="all" data-tag="France"
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/04/b6/28/04b62834-121f-b3af-47b3-2485ff499e14/mzaf_4474193750897158038.plus.aac.p.m4a">
                                 <div class="list-item r">
-                                    <div class="media"><a href="playlist_detail.html#312058991" class="ajax media-content"
+                                    <div class="media"><a href="playlist_detail.php#312058991" class="ajax media-content"
                                                           style="background-image:url(../assets/img/minister.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
@@ -427,7 +427,7 @@
                                         </div>
                                     </div>
                                     <div class="list-content text-center">
-                                        <div class="list-body"><a href="playlist_detail.html#312058991"
+                                        <div class="list-body"><a href="playlist_detail.php#312058991"
                                                                   class="list-title title ajax h-1x">This Girl </a><a
                                                 href="music.artist.html#312058991"
                                                 class="list-subtitle d-block text-muted subtitle ajax h-1x">Kungs &amp;
@@ -438,7 +438,7 @@
                             <div class="col-6 col-md-3" data-id="324443962" data-category="all" data-tag="USA"
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/bd/6b/34/bd6b3443-d4c3-26fd-91c8-d0b31ab47ee3/mzaf_8046559398209773051.plus.aac.p.m4a">
                                 <div class="list-item r">
-                                    <div class="media"><a href="playlist_detail.html#324443962" class="ajax media-content"
+                                    <div class="media"><a href="playlist_detail.php#324443962" class="ajax media-content"
                                                           style="background-image:url(../assets/img/z2.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
@@ -451,7 +451,7 @@
                                         </div>
                                     </div>
                                     <div class="list-content text-center">
-                                        <div class="list-body"><a href="playlist_detail.html#324443962"
+                                        <div class="list-body"><a href="playlist_detail.php#324443962"
                                                                   class="list-title title ajax h-1x">Closer </a><a
                                                 href="music.artist.html#324443962"
                                                 class="list-subtitle d-block text-muted subtitle ajax h-1x">The
@@ -463,7 +463,7 @@
                                  data-tag="United Kingdom"
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/e2/e2/60/e2e260ca-b3d8-f8a4-1b7c-ffd95eea52c1/mzaf_6400110211813760072.plus.aac.p.m4a">
                                 <div class="list-item r">
-                                    <div class="media"><a href="playlist_detail.html#160157606" class="ajax media-content"
+                                    <div class="media"><a href="playlist_detail.php#160157606" class="ajax media-content"
                                                           style="background-image:url(../assets/img/z8.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
@@ -476,7 +476,7 @@
                                         </div>
                                     </div>
                                     <div class="list-content text-center">
-                                        <div class="list-body"><a href="playlist_detail.html#160157606"
+                                        <div class="list-body"><a href="playlist_detail.php#160157606"
                                                                   class="list-title title ajax h-1x">Uptown Funk </a><a
                                                 href="music.artist.html#160157606"
                                                 class="list-subtitle d-block text-muted subtitle ajax h-1x">Mark Ronson
@@ -492,7 +492,7 @@
                                 <div class="col-12" data-id="92570808" data-category="Pop" data-tag="Canada"
                                      data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/64/3d/c1/643dc113-29d1-08de-78e2-a4ab4c3f1730/mzaf_5420937162202173294.plus.aac.p.m4a">
                                     <div class="list-item r">
-                                        <div class="media"><a href="playlist_detail.html#92570808"
+                                        <div class="media"><a href="playlist_detail.php#92570808"
                                                               class="ajax media-content"
                                                               style="background-image:url(../assets/img/pastor.jpg)"></a>
                                             <div class="media-action">
@@ -506,7 +506,7 @@
                                             </div>
                                         </div>
                                         <div class="list-content">
-                                            <div class="list-body"><a href="playlist_detail.html#92570808"
+                                            <div class="list-body"><a href="playlist_detail.php#92570808"
                                                                       class="list-title title ajax h-1x">Rude </a><a
                                                     href="music.artist.html#92570808"
                                                     class="list-subtitle d-block text-muted subtitle ajax h-1x">Magic!</a>
@@ -517,7 +517,7 @@
                                 <div class="col-12" data-id="324443962" data-category="all" data-tag="USA"
                                      data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/bd/6b/34/bd6b3443-d4c3-26fd-91c8-d0b31ab47ee3/mzaf_8046559398209773051.plus.aac.p.m4a">
                                     <div class="list-item r">
-                                        <div class="media"><a href="playlist_detail.html#324443962"
+                                        <div class="media"><a href="playlist_detail.php#324443962"
                                                               class="ajax media-content"
                                                               style="background-image:url(../assets/img/z4.jpg)"></a>
                                             <div class="media-action">
@@ -531,7 +531,7 @@
                                             </div>
                                         </div>
                                         <div class="list-content">
-                                            <div class="list-body"><a href="playlist_detail.html#324443962"
+                                            <div class="list-body"><a href="playlist_detail.php#324443962"
                                                                       class="list-title title ajax h-1x">Closer </a><a
                                                     href="music.artist.html#324443962"
                                                     class="list-subtitle d-block text-muted subtitle ajax h-1x">The
@@ -542,7 +542,7 @@
                                 <div class="col-12" data-id="163144443" data-category="Electronic" data-tag="Norway"
                                      data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/5e/53/70/5e5370c5-3da1-7a76-587e-7e8827ee534c/mzaf_807237753747484753.plus.aac.p.m4a">
                                     <div class="list-item r">
-                                        <div class="media"><a href="playlist_detail.html#163144443"
+                                        <div class="media"><a href="playlist_detail.php#163144443"
                                                               class="ajax media-content"
                                                               style="background-image:url(../assets/img/z8.jpg)"></a>
                                             <div class="media-action">
@@ -556,7 +556,7 @@
                                             </div>
                                         </div>
                                         <div class="list-content">
-                                            <div class="list-body"><a href="playlist_detail.html#163144443"
+                                            <div class="list-body"><a href="playlist_detail.php#163144443"
                                                                       class="list-title title ajax h-1x">Firestone </a><a
                                                     href="music.artist.html#163144443"
                                                     class="list-subtitle d-block text-muted subtitle ajax h-1x">Kygo
@@ -567,7 +567,7 @@
                                 <div class="col-12" data-id="263013345" data-category="Electronic" data-tag="all"
                                      data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/f2/52/4b/f2524bfb-d546-affa-e89f-f165a1c99cb0/mzaf_2577649036970470026.plus.aac.p.m4a">
                                     <div class="list-item r">
-                                        <div class="media"><a href="playlist_detail.html#263013345"
+                                        <div class="media"><a href="playlist_detail.php#263013345"
                                                               class="ajax media-content"
                                                               style="background-image:url(../assets/img/z3.jpg)"></a>
                                             <div class="media-action">
@@ -581,7 +581,7 @@
                                             </div>
                                         </div>
                                         <div class="list-content">
-                                            <div class="list-body"><a href="playlist_detail.html#263013345"
+                                            <div class="list-body"><a href="playlist_detail.php#263013345"
                                                                       class="list-title title ajax h-1x">Reality </a><a
                                                     href="music.artist.html#263013345"
                                                     class="list-subtitle d-block text-muted subtitle ajax h-1x">Lost
@@ -592,7 +592,7 @@
                                 <div class="col-12" data-id="160157606" data-category="Pop" data-tag="United Kingdom"
                                      data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/e2/e2/60/e2e260ca-b3d8-f8a4-1b7c-ffd95eea52c1/mzaf_6400110211813760072.plus.aac.p.m4a">
                                     <div class="list-item r">
-                                        <div class="media"><a href="playlist_detail.html#160157606"
+                                        <div class="media"><a href="playlist_detail.php#160157606"
                                                               class="ajax media-content"
                                                               style="background-image:url(../assets/img/z1.jpg)"></a>
                                             <div class="media-action">
@@ -606,7 +606,7 @@
                                             </div>
                                         </div>
                                         <div class="list-content">
-                                            <div class="list-body"><a href="playlist_detail.html#160157606"
+                                            <div class="list-body"><a href="playlist_detail.php#160157606"
                                                                       class="list-title title ajax h-1x">Uptown
                                                 Funk </a><a href="music.artist.html#160157606"
                                                             class="list-subtitle d-block text-muted subtitle ajax h-1x">Mark
@@ -617,7 +617,7 @@
                                 <div class="col-12" data-id="338965882" data-category="Pop" data-tag="United Kingdom"
                                      data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/65/ca/83/65ca8336-2e09-a0bb-a810-2a6b8864e770/mzaf_3545919152242528717.plus.aac.p.m4a">
                                     <div class="list-item r">
-                                        <div class="media"><a href="playlist_detail.html#338965882"
+                                        <div class="media"><a href="playlist_detail.php#338965882"
                                                               class="ajax media-content"
                                                               style="background-image:url(../assets/img/z4.jpg)"></a>
                                             <div class="media-action">
@@ -631,7 +631,7 @@
                                             </div>
                                         </div>
                                         <div class="list-content">
-                                            <div class="list-body"><a href="playlist_detail.html#338965882"
+                                            <div class="list-body"><a href="playlist_detail.php#338965882"
                                                                       class="list-title title ajax h-1x">Shape Of
                                                 You </a><a href="music.artist.html#338965882"
                                                            class="list-subtitle d-block text-muted subtitle ajax h-1x">Ed

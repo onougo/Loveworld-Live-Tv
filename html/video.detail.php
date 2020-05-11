@@ -58,14 +58,14 @@
                     <div class="scrollable hover" style="max-height: 250px">
                         <div class="list list-row">
                             <div class="list-item" data-id="13">
-                                <div><a href="video.detail.html"><span class="w-32 avatar gd-primary">L</span></a></div>
+                                <div><a href="video.detail.php"><span class="w-32 avatar gd-primary">L</span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">Thanks! Awesome to see good support on Twitter</div>
                                 </div>
                             </div>
 
                             <div class="list-item" data-id="10">
-                                <div><a href="video.detail.html"><span class="w-32 avatar gd-danger"><img
+                                <div><a href="video.detail.php"><span class="w-32 avatar gd-danger"><img
                                         src="../assets/img/a10.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">Developers of <a href="#">@iAI</a>, the AI assistant
@@ -74,7 +74,7 @@
                                 </div>
                             </div>
                             <div class="list-item" data-id="8">
-                                <div><a href="video.detail.html"><span class="w-32 avatar gd-success"><img
+                                <div><a href="video.detail.php"><span class="w-32 avatar gd-success"><img
                                         src="../assets/img/a8.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">The biggest software developer conference</div>
@@ -95,7 +95,7 @@
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="page.profile.html"><span>Profile</span> </a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="settings.html"><span>Account Settings</span> </a><a
+                    <a class="dropdown-item" href="settings.php"><span>Account Settings</span> </a><a
                             class="dropdown-item" href="signin.1.html">Sign out</a></div>
             </li><!-- Navarbar toggle btn -->
 
@@ -109,15 +109,15 @@
                 <div class="nav-border b-primary" data-nav>
                     <ul class="nav bg">
                         <li class="nav-header hidden-folded"><span class="text-muted">Main</span></li>
-                        <li><a href="dashboard.html"><span class="nav-icon"><i data-feather="home"></i></span>
+                        <li><a href="dashboard.php"><span class="nav-icon"><i data-feather="home"></i></span>
                             <span class="nav-text">Dashboard</span></a></li>
 
                         <li class="nav-header hidden-folded"><span class="text-muted">Videos</span></li>
 
-                        <li><a href="create_video.html"><span class="nav-icon"><i
+                        <li><a href="create_video.php"><span class="nav-icon"><i
                                 data-feather="video"></i></span> <span class="nav-text">Create Videos</span> <span
                                 class="nav-badge"></span></a></li>
-                        <li><a href="edit_video.html"><span class="nav-icon"><i
+                        <li><a href="edit_video.php"><span class="nav-icon"><i
                                 data-feather="airplay"></i></span> <span class="nav-text">Edit Videos</span> <span
                                 class="nav-badge"></span></a></li>
                         <li><a href="video.html"><span class="nav-icon"><i data-feather="youtube"></i></span>
@@ -126,16 +126,16 @@
 
                         <li class="nav-header hidden-folded"><span class="text-muted">Playlists</span></li>
 
-                        <li><a href="create_playlist.html"><span class="nav-icon"><i
+                        <li><a href="create_playlist.php"><span class="nav-icon"><i
                                 data-feather="video"></i></span> <span class="nav-text">Create Playlists</span> <span
                                 class="nav-badge"></span></a></li>
-                        <li><a href="playlist.html"><span class="nav-icon"><i
+                        <li><a href="playlist.php"><span class="nav-icon"><i
                                 data-feather="youtube"></i></span> <span class="nav-text">View Playlists</span> <span
                                 class="nav-badge"></span></a></li>
 
                         <li class="nav-header hidden-folded"><span class="text-muted">Settings</span></li>
 
-                        <li><a href="settings.html"><span class="nav-icon"><i
+                        <li><a href="settings.php"><span class="nav-icon"><i
                                 data-feather="settings"></i></span> <span class="nav-text">Account Settings</span> <span
                                 class="nav-badge"></span></a></li>
                     </ul>
@@ -243,10 +243,10 @@
                             <div class="card-header">Recommended</div>
                             <div class="list list-row">
                                 <div class="list-item" data-id="6">
-                                    <div><a class="media media-16x9 r" href="video.detail.html"><span
+                                    <div><a class="media media-16x9 r" href="video.detail.php"><span
                                             class="media-content"
                                             style="background-image:url(../assets/img/b6.jpg)"></span></a></div>
-                                    <div class="flex"><a href="video.detail.html" class="item-author text-color">Wayne
+                                    <div class="flex"><a href="video.detail.php" class="item-author text-color">Wayne
                                         Gray</a>
                                         <div class="item-except text-muted text-sm h-1x">This makes me believe there are
                                             good people in the world still
@@ -254,10 +254,10 @@
                                     </div>
                                 </div>
                                 <div class="list-item" data-id="10">
-                                    <div><a class="media media-16x9 r" href="video.detail.html"><span
+                                    <div><a class="media media-16x9 r" href="video.detail.php"><span
                                             class="media-content"
                                             style="background-image:url(../assets/img/b10.jpg)"></span></a></div>
-                                    <div class="flex"><a href="video.detail.html" class="item-author text-color">Edward
+                                    <div class="flex"><a href="video.detail.php" class="item-author text-color">Edward
                                         Clark</a>
                                         <div class="item-except text-muted text-sm h-1x">Leaders are running an AMA on
                                             Reddit. Ask your question and find out how the project is going
@@ -265,10 +265,10 @@
                                     </div>
                                 </div>
                                 <div class="list-item" data-id="11">
-                                    <div><a class="media media-16x9 r" href="video.detail.html"><span
+                                    <div><a class="media media-16x9 r" href="video.detail.php"><span
                                             class="media-content"
                                             style="background-image:url(../assets/img/b11.jpg)"></span></a></div>
-                                    <div class="flex"><a href="video.detail.html" class="item-author text-color">Kenneth
+                                    <div class="flex"><a href="video.detail.php" class="item-author text-color">Kenneth
                                         Pierce</a>
                                         <div class="item-except text-muted text-sm h-1x">@DataAPI Implemented new API
                                             for transation data from client to server.
@@ -276,10 +276,10 @@
                                     </div>
                                 </div>
                                 <div class="list-item" data-id="17">
-                                    <div><a class="media media-16x9 r" href="video.detail.html"><span
+                                    <div><a class="media media-16x9 r" href="video.detail.php"><span
                                             class="media-content"
                                             style="background-image:url(../assets/img/b17.jpg)"></span></a></div>
-                                    <div class="flex"><a href="video.detail.html" class="item-author text-color">Helen
+                                    <div class="flex"><a href="video.detail.php" class="item-author text-color">Helen
                                         Valdez</a>
                                         <div class="item-except text-muted text-sm h-1x">AI will highlight & emphasize
                                             key areas where students need help, allowing teachers to focus on
@@ -288,10 +288,10 @@
                                     </div>
                                 </div>
                                 <div class="list-item" data-id="20">
-                                    <div><a class="media media-16x9 r" href="video.detail.html"><span
+                                    <div><a class="media media-16x9 r" href="video.detail.php"><span
                                             class="media-content"
                                             style="background-image:url(../assets/img/b20.jpg)"></span></a></div>
-                                    <div class="flex"><a href="video.detail.html" class="item-author text-color">Gloria
+                                    <div class="flex"><a href="video.detail.php" class="item-author text-color">Gloria
                                         Williams</a>
                                         <div class="item-except text-muted text-sm h-1x">Netflix hackathon creates eye
                                             tracking option for iOS app
@@ -299,10 +299,10 @@
                                     </div>
                                 </div>
                                 <div class="list-item" data-id="9">
-                                    <div><a class="media media-16x9 r" href="video.detail.html"><span
+                                    <div><a class="media media-16x9 r" href="video.detail.php"><span
                                             class="media-content"
                                             style="background-image:url(../assets/img/b9.jpg)"></span></a></div>
-                                    <div class="flex"><a href="video.detail.html" class="item-author text-color">Steven
+                                    <div class="flex"><a href="video.detail.php" class="item-author text-color">Steven
                                         Cruz</a>
                                         <div class="item-except text-muted text-sm h-1x">Build a progressive web app
                                             using jQuery

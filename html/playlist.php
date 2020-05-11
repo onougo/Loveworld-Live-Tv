@@ -58,14 +58,14 @@
                     <div class="scrollable hover" style="max-height: 250px">
                         <div class="list list-row">
                             <div class="list-item" data-id="13">
-                                <div><a href="video.detail.html"><span class="w-32 avatar gd-primary">L</span></a></div>
+                                <div><a href="video.detail.php"><span class="w-32 avatar gd-primary">L</span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">Thanks! Awesome to see good support on Twitter</div>
                                 </div>
                             </div>
 
                             <div class="list-item" data-id="10">
-                                <div><a href="video.detail.html"><span class="w-32 avatar gd-danger"><img
+                                <div><a href="video.detail.php"><span class="w-32 avatar gd-danger"><img
                                         src="../assets/img/a10.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">Developers of <a href="#">@iAI</a>, the AI assistant
@@ -74,7 +74,7 @@
                                 </div>
                             </div>
                             <div class="list-item" data-id="8">
-                                <div><a href="video.detail.html"><span class="w-32 avatar gd-success"><img
+                                <div><a href="video.detail.php"><span class="w-32 avatar gd-success"><img
                                         src="../assets/img/a8.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">The biggest software developer conference</div>
@@ -95,7 +95,7 @@
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="page.profile.html"><span>Profile</span> </a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="settings.html"><span>Account Settings</span> </a><a
+                    <a class="dropdown-item" href="settings.php"><span>Account Settings</span> </a><a
                             class="dropdown-item" href="signin.1.html">Sign out</a></div>
             </li><!-- Navarbar toggle btn -->
 
@@ -109,15 +109,15 @@
                 <div class="nav-border b-primary" data-nav>
                     <ul class="nav bg">
                         <li class="nav-header hidden-folded"><span class="text-muted">Main</span></li>
-                        <li><a href="dashboard.html"><span class="nav-icon"><i data-feather="home"></i></span>
+                        <li><a href="dashboard.php"><span class="nav-icon"><i data-feather="home"></i></span>
                             <span class="nav-text">Dashboard</span></a></li>
 
                         <li class="nav-header hidden-folded"><span class="text-muted">Videos</span></li>
 
-                        <li><a href="create_video.html"><span class="nav-icon"><i
+                        <li><a href="create_video.php"><span class="nav-icon"><i
                                 data-feather="video"></i></span> <span class="nav-text">Create Videos</span> <span
                                 class="nav-badge"></span></a></li>
-                        <li><a href="edit_video.html"><span class="nav-icon"><i
+                        <li><a href="edit_video.php"><span class="nav-icon"><i
                                 data-feather="airplay"></i></span> <span class="nav-text">Edit Videos</span> <span
                                 class="nav-badge"></span></a></li>
                         <li><a href="video.html"><span class="nav-icon"><i data-feather="youtube"></i></span>
@@ -126,16 +126,16 @@
 
                         <li class="nav-header hidden-folded"><span class="text-muted">Playlists</span></li>
 
-                        <li><a href="create_playlist.html"><span class="nav-icon"><i
+                        <li><a href="create_playlist.php"><span class="nav-icon"><i
                                 data-feather="video"></i></span> <span class="nav-text">Create Playlists</span> <span
                                 class="nav-badge"></span></a></li>
-                        <li><a href="playlist.html"><span class="nav-icon"><i
+                        <li><a href="playlist.php"><span class="nav-icon"><i
                                 data-feather="youtube"></i></span> <span class="nav-text">View Playlists</span> <span
                                 class="nav-badge"></span></a></li>
 
                         <li class="nav-header hidden-folded"><span class="text-muted">Settings</span></li>
 
-                        <li><a href="settings.html"><span class="nav-icon"><i
+                        <li><a href="settings.php"><span class="nav-icon"><i
                                 data-feather="settings"></i></span> <span class="nav-text">Account Settings</span> <span
                                 class="nav-badge"></span></a></li>
                     </ul>
@@ -164,10 +164,10 @@
                         </div>
                         <div class="list-content">
                             <div class="list-body p-5 col-md-6">
-                                <a href="video.detail.html#"
+                                <a href="video.detail.php#"
                                    class="list-title title ajax text-lg font-weight-bold mb-4 l-h-1x">Watch Pastor Chris Teachings Live and be Blessed </a><a href="page.profile.html#"
                                                                                                                                                               class="list-subtitle d-block text-muted subtitle ajax">The Lord giveth wisdom and out of his mouth commeth knowledge and understanding</a>
-                                <div class="mt-4"><a href="video.detail.html"
+                                <div class="mt-4"><a href="video.detail.php"
                                                      class="ajax btn btn-outline-primary b-2x btn-md mx-3">More Episodes</a>
                                 </div>
                             </div>
@@ -214,7 +214,7 @@
                         <div class="col-4 col-sm-4 col-md-3" data-id="53754394" data-category="all" data-tag="USA"
                              data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/04/e1/7b/mzi.gpwvrrex.aac.p.m4a">
                             <div class="list-item">
-                                <div class="media media-16x9"><a href="video.detail.html#53754394"
+                                <div class="media media-16x9"><a href="video.detail.php#53754394"
                                                                  class="ajax media-content"
                                                                  style="background-image:url(../assets/img/z1.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
@@ -222,7 +222,7 @@
                                     <div class="media-action"></div>
                                 </div>
                                 <div class="list-content">
-                                    <div class="list-body"><a href="video.detail.html#53754394"
+                                    <div class="list-body"><a href="video.detail.php#53754394"
                                                               class="list-title title ajax h-1x">31st Night Service</a>
                                     </div>
                                     <div class="list-footer">
@@ -234,7 +234,7 @@
                         <div class="col-4 col-sm-4 col-md-3" data-id="312058991" data-category="all" data-tag="France"
                              data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/04/b6/28/04b62834-121f-b3af-47b3-2485ff499e14/mzaf_4474193750897158038.plus.aac.p.m4a">
                             <div class="list-item">
-                                <div class="media media-16x9"><a href="video.detail.html#312058991"
+                                <div class="media media-16x9"><a href="video.detail.php#312058991"
                                                                  class="ajax media-content"
                                                                  style="background-image:url(../assets/img/z2.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
@@ -242,7 +242,7 @@
                                     <div class="media-action"></div>
                                 </div>
                                 <div class="list-content">
-                                    <div class="list-body"><a href="video.detail.html#312058991"
+                                    <div class="list-body"><a href="video.detail.php#312058991"
                                                               class="list-title title ajax h-1x">Communion Service</a></div>
                                     <div class="list-footer">
                                         <div class="text-muted text-sm">Feb 9, 1:26 am</div>
@@ -254,7 +254,7 @@
                              data-tag="United Kingdom"
                              data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/65/ca/83/65ca8336-2e09-a0bb-a810-2a6b8864e770/mzaf_3545919152242528717.plus.aac.p.m4a">
                             <div class="list-item">
-                                <div class="media media-16x9"><a href="video.detail.html#338965882"
+                                <div class="media media-16x9"><a href="video.detail.php#338965882"
                                                                  class="ajax media-content"
                                                                  style="background-image:url(../assets/img/z3.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
@@ -262,7 +262,7 @@
                                     <div class="media-action"></div>
                                 </div>
                                 <div class="list-content">
-                                    <div class="list-body"><a href="video.detail.html#338965882"
+                                    <div class="list-body"><a href="video.detail.php#338965882"
                                                               class="list-title title ajax h-1x">Prayer adn Fasting</a></div>
                                     <div class="list-footer">
                                         <div class="text-muted text-sm">Feb 30, 5:42 am</div>
@@ -274,7 +274,7 @@
                              data-tag="United Kingdom"
                              data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/e2/e2/60/e2e260ca-b3d8-f8a4-1b7c-ffd95eea52c1/mzaf_6400110211813760072.plus.aac.p.m4a">
                             <div class="list-item">
-                                <div class="media media-16x9"><a href="video.detail.html#160157606"
+                                <div class="media media-16x9"><a href="video.detail.php#160157606"
                                                                  class="ajax media-content"
                                                                  style="background-image:url(../assets/img/z4.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
@@ -282,7 +282,7 @@
                                     <div class="media-action"></div>
                                 </div>
                                 <div class="list-content">
-                                    <div class="list-body"><a href="video.detail.html#160157606"
+                                    <div class="list-body"><a href="video.detail.php#160157606"
                                                               class="list-title title ajax h-1x">Obedience is Best</a></div>
                                     <div class="list-footer">
                                         <div class="text-muted text-sm">Feb 20, 5:35 am</div>
@@ -294,7 +294,7 @@
                              data-tag="United Kingdom"
                              data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/e2/e2/60/e2e260ca-b3d8-f8a4-1b7c-ffd95eea52c1/mzaf_6400110211813760072.plus.aac.p.m4a">
                             <div class="list-item">
-                                <div class="media media-16x9"><a href="video.detail.html#160157606"
+                                <div class="media media-16x9"><a href="video.detail.php#160157606"
                                                                  class="ajax media-content"
                                                                  style="background-image:url(../assets/img/z5.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
@@ -302,7 +302,7 @@
                                     <div class="media-action"></div>
                                 </div>
                                 <div class="list-content">
-                                    <div class="list-body"><a href="video.detail.html#160157606"
+                                    <div class="list-body"><a href="video.detail.php#160157606"
                                                               class="list-title title ajax h-1x">Year of Perfection</a></div>
                                     <div class="list-footer">
                                         <div class="text-muted text-sm">Feb 20, 5:35 am</div>
@@ -314,7 +314,7 @@
                              data-tag="United Kingdom"
                              data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/e2/e2/60/e2e260ca-b3d8-f8a4-1b7c-ffd95eea52c1/mzaf_6400110211813760072.plus.aac.p.m4a">
                             <div class="list-item">
-                                <div class="media media-16x9"><a href="video.detail.html#160157606"
+                                <div class="media media-16x9"><a href="video.detail.php#160157606"
                                                                  class="ajax media-content"
                                                                  style="background-image:url(../assets/img/z4.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
@@ -322,7 +322,7 @@
                                     <div class="media-action"></div>
                                 </div>
                                 <div class="list-content">
-                                    <div class="list-body"><a href="video.detail.html#160157606"
+                                    <div class="list-body"><a href="video.detail.php#160157606"
                                                               class="list-title title ajax h-1x">The Word of God</a></div>
                                     <div class="list-footer">
                                         <div class="text-muted text-sm">Feb 20, 5:35 am</div>
@@ -334,7 +334,7 @@
                              data-tag="United Kingdom"
                              data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/e2/e2/60/e2e260ca-b3d8-f8a4-1b7c-ffd95eea52c1/mzaf_6400110211813760072.plus.aac.p.m4a">
                             <div class="list-item">
-                                <div class="media media-16x9"><a href="video.detail.html#160157606"
+                                <div class="media media-16x9"><a href="video.detail.php#160157606"
                                                                  class="ajax media-content"
                                                                  style="background-image:url(../assets/img/z1.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
@@ -342,7 +342,7 @@
                                     <div class="media-action"></div>
                                 </div>
                                 <div class="list-content">
-                                    <div class="list-body"><a href="video.detail.html#160157606"
+                                    <div class="list-body"><a href="video.detail.php#160157606"
                                                               class="list-title title ajax h-1x">The Holyspirit</a></div>
                                     <div class="list-footer">
                                         <div class="text-muted text-sm">Feb 20, 5:35 am</div>
@@ -354,7 +354,7 @@
                              data-tag="United Kingdom"
                              data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/e2/e2/60/e2e260ca-b3d8-f8a4-1b7c-ffd95eea52c1/mzaf_6400110211813760072.plus.aac.p.m4a">
                             <div class="list-item">
-                                <div class="media media-16x9"><a href="video.detail.html#160157606"
+                                <div class="media media-16x9"><a href="video.detail.php#160157606"
                                                                  class="ajax media-content"
                                                                  style="background-image:url(../assets/img/z2.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
@@ -362,7 +362,7 @@
                                     <div class="media-action"></div>
                                 </div>
                                 <div class="list-content">
-                                    <div class="list-body"><a href="video.detail.html#160157606"
+                                    <div class="list-body"><a href="video.detail.php#160157606"
                                                               class="list-title title ajax h-1x">Prayers</a></div>
                                     <div class="list-footer">
                                         <div class="text-muted text-sm">Feb 20, 5:35 am</div>

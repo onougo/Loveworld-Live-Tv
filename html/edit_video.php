@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Create Video | Loveworld Live Tv</title>
+    <title>Edit Video | Loveworld Live Tv</title>
     <meta name="description" content="Responsive, Bootstrap, BS4">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><!-- style -->
     <link rel="stylesheet" href="../assets/css/site.min.css">
@@ -58,14 +58,14 @@
                     <div class="scrollable hover" style="max-height: 250px">
                         <div class="list list-row">
                             <div class="list-item" data-id="13">
-                                <div><a href="video.detail.html"><span class="w-32 avatar gd-primary">L</span></a></div>
+                                <div><a href="video.detail.php"><span class="w-32 avatar gd-primary">L</span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">Thanks! Awesome to see good support on Twitter</div>
                                 </div>
                             </div>
 
                             <div class="list-item" data-id="10">
-                                <div><a href="video.detail.html"><span class="w-32 avatar gd-danger"><img
+                                <div><a href="video.detail.php"><span class="w-32 avatar gd-danger"><img
                                         src="../assets/img/a10.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">Developers of <a href="#">@iAI</a>, the AI assistant
@@ -74,7 +74,7 @@
                                 </div>
                             </div>
                             <div class="list-item" data-id="8">
-                                <div><a href="video.detail.html"><span class="w-32 avatar gd-success"><img
+                                <div><a href="video.detail.php"><span class="w-32 avatar gd-success"><img
                                         src="../assets/img/a8.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">The biggest software developer conference</div>
@@ -95,7 +95,7 @@
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="page.profile.html"><span>Profile</span> </a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="settings.html"><span>Account Settings</span> </a><a
+                    <a class="dropdown-item" href="settings.php"><span>Account Settings</span> </a><a
                             class="dropdown-item" href="signin.1.html">Sign out</a></div>
             </li><!-- Navarbar toggle btn -->
 
@@ -109,15 +109,15 @@
                 <div class="nav-border b-primary" data-nav>
                     <ul class="nav bg">
                         <li class="nav-header hidden-folded"><span class="text-muted">Main</span></li>
-                        <li><a href="dashboard.html"><span class="nav-icon"><i data-feather="home"></i></span>
+                        <li><a href="dashboard.php"><span class="nav-icon"><i data-feather="home"></i></span>
                             <span class="nav-text">Dashboard</span></a></li>
 
                         <li class="nav-header hidden-folded"><span class="text-muted">Videos</span></li>
 
-                        <li><a href="create_video.html"><span class="nav-icon"><i
+                        <li><a href="create_video.php"><span class="nav-icon"><i
                                 data-feather="video"></i></span> <span class="nav-text">Create Videos</span> <span
                                 class="nav-badge"></span></a></li>
-                        <li><a href="edit_video.html"><span class="nav-icon"><i
+                        <li><a href="edit_video.php"><span class="nav-icon"><i
                                 data-feather="airplay"></i></span> <span class="nav-text">Edit Videos</span> <span
                                 class="nav-badge"></span></a></li>
                         <li><a href="video.html"><span class="nav-icon"><i data-feather="youtube"></i></span>
@@ -126,16 +126,16 @@
 
                         <li class="nav-header hidden-folded"><span class="text-muted">Playlists</span></li>
 
-                        <li><a href="create_playlist.html"><span class="nav-icon"><i
+                        <li><a href="create_playlist.php"><span class="nav-icon"><i
                                 data-feather="video"></i></span> <span class="nav-text">Create Playlists</span> <span
                                 class="nav-badge"></span></a></li>
-                        <li><a href="playlist.html"><span class="nav-icon"><i
+                        <li><a href="playlist.php"><span class="nav-icon"><i
                                 data-feather="youtube"></i></span> <span class="nav-text">View Playlists</span> <span
                                 class="nav-badge"></span></a></li>
 
                         <li class="nav-header hidden-folded"><span class="text-muted">Settings</span></li>
 
-                        <li><a href="settings.html"><span class="nav-icon"><i
+                        <li><a href="settings.php"><span class="nav-icon"><i
                                 data-feather="settings"></i></span> <span class="nav-text">Account Settings</span> <span
                                 class="nav-badge"></span></a></li>
                     </ul>
@@ -158,7 +158,7 @@
         <div>
             <div class="page-hero page-container" id="page-hero">
                 <div class="padding d-flex">
-                    <div class="page-title"><h2 class="text-md text-highlight">Create Your Video</h2>
+                    <div class="page-title"><h2 class="text-md text-highlight">Edit Your Video</h2>
                     </div>
                     <div class="flex"></div>
                 </div>
@@ -166,7 +166,21 @@
             <div class="page-content page-container" id="page-content">
                 <div class="padding">
                     <div class="row">
-                        <div class="col-sm-12">
+                        <div class="col-sm-4">
+                            <div class="media"><a href="#" class="ajax media-content"
+                                                  style="background-image:url(../assets/img/z1.jpg); width: 350px; height: 295px"></a>
+                                <div class="media-action ">
+                                    <button class="btn btn-icon hide-row" data-toggle-class><i
+                                            data-feather="heart" class="active-danger"></i></button>
+                                    <button class="btn btn-raised btn-icon btn-rounded bg--white btn-play"></button>
+                                    <button class="btn btn-icon  hide-row btn-more"
+                                            data-toggle="dropdown"><i data-feather="more-horizontal"></i>
+                                    </button>
+                                    <div class="dropdown-menu dropdown-menu-right"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
                             <form data-plugin="parsley" data-option="{}">
                                 <div class="card">
                                     <div class="card-header"><p class="text-muted">Please fill the information correctly</p></div>
@@ -175,7 +189,7 @@
                                             <div class="form-group col-sm-6"><label>Title</label><input type="text"
                                                                                                   class="form-control"
                                                                                                   required></div>
-                                            <div class="form-group col-sm-6"><label>Video Category</label><input type="text"
+                                            <div class="form-group col-sm-6"><label>Video Categories</label><input type="text"
                                                                                                class="form-control"
                                                                                                required></div>
                                         </div>
@@ -188,7 +202,7 @@
                                         </div>
 
                                         <div class="text-right">
-                                            <button type="submit" class="btn btn-primary">Submit</button>
+                                            <button type="submit" class="btn btn-success">Update</button>
                                         </div>
                                     </div>
                                 </div>
