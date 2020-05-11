@@ -109,7 +109,7 @@
                 <div class="nav-border b-primary" data-nav>
                     <ul class="nav bg">
                         <li class="nav-header hidden-folded"><span class="text-muted">Main</span></li>
-                        <li><a href="dashboard.php"><span class="nav-icon"><i data-feather="home"></i></span>
+                        <li><a href="index.php"><span class="nav-icon"><i data-feather="home"></i></span>
                             <span class="nav-text">Dashboard</span></a></li>
 
                         <li class="nav-header hidden-folded"><span class="text-muted">Videos</span></li>
