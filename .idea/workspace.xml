@@ -3,15 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="1740c065-fd23-49a9-b8b8-91aa57de7fd9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/create_playlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/create_playlist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/create_video.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/create_video.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dashboard.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/edit_video.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/edit_video.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/playlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/playlist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/playlist_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/playlist_detail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/settings.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/video.detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/video.detail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/create_playlist.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/create_playlist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/create_video.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/create_video.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/edit_video.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/edit_video.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/playlist.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/playlist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/playlist_detail.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/playlist_detail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/video.detail.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/video.detail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/video.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +50,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/video.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="155" column="56" selection-start-line="155" selection-start-column="56" selection-end-line="155" selection-end-column="56" />
-              <folding>
-                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -147,16 +134,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589155913153</updated>
-      <workItem from="1589155914419" duration="5552000" />
+      <workItem from="1589155914419" duration="6699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5552000" />
+    <option name="totallyTimeSpent" value="6699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
@@ -245,7 +231,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/video.html">
+    <entry file="file://$PROJECT_DIR$/html/video.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="155" column="56" selection-start-line="155" selection-start-column="56" selection-end-line="155" selection-end-column="56" />

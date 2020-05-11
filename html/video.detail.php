@@ -120,7 +120,7 @@
                         <li><a href="edit_video.php"><span class="nav-icon"><i
                                 data-feather="airplay"></i></span> <span class="nav-text">Edit Videos</span> <span
                                 class="nav-badge"></span></a></li>
-                        <li><a href="video.html"><span class="nav-icon"><i data-feather="youtube"></i></span>
+                        <li><a href="video.php"><span class="nav-icon"><i data-feather="youtube"></i></span>
                             <span class="nav-text">View All Videos</span></a></li>
 
 
