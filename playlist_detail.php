@@ -5,12 +5,12 @@
     <title>Playlist | Loveworld Live Tv</title>
     <meta name="description" content="Responsive, Bootstrap, BS4">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><!-- style -->
-    <link rel="stylesheet" href="../assets/css/site.min.css">
+    <link rel="stylesheet" href="assets/css/site.min.css">
 </head>
 <body class="layout-column">
 <header id="header" class="page-header bg-white b-b">
     <div class="navbar navbar-expand-lg"><!-- brand --> <a href="index.html" class="navbar-brand w w-auto-sm">
-        <img src="../assets/img/logo.png" alt="..."><span
+        <img src="assets/img/logo.png" alt="..."><span
             class="hidden-folded d-inline l-s-n-1x w w-auto-sm">Loveworld Live Tv</span> </a><!-- / brand -->
         <!-- Navbar collapse -->
         <div class="collapse navbar-collapse order-2 order-lg-1" id="navbarToggler">
@@ -66,7 +66,7 @@
 
                             <div class="list-item" data-id="10">
                                 <div><a href="video.detail.php"><span class="w-32 avatar gd-danger"><img
-                                        src="../assets/img/a10.jpg" alt="."></span></a></div>
+                                                    src="assets/img/a10.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">Developers of <a href="#">@iAI</a>, the AI assistant
                                         based on Free Software
@@ -75,7 +75,7 @@
                             </div>
                             <div class="list-item" data-id="8">
                                 <div><a href="video.detail.php"><span class="w-32 avatar gd-success"><img
-                                        src="../assets/img/a8.jpg" alt="."></span></a></div>
+                                                    src="assets/img/a8.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">The biggest software developer conference</div>
                                 </div>
@@ -88,7 +88,7 @@
                 </div><!-- / dropdown --></li><!-- User dropdown menu -->
             <li class="nav-item dropdown"><a href="#" data-toggle="dropdown"
                                              class="nav-link d-flex align-items-center px-2 text-color"><span
-                    class="avatar w-24" style="margin: -2px"><img src="../assets/img/a0.jpg" alt="..."></span></a>
+                    class="avatar w-24" style="margin: -2px"><img src="assets/img/a0.jpg" alt="..."></span></a>
                 <div class="dropdown-menu dropdown-menu-right w mt-3 animate fadeIn"><a class="dropdown-item"
                                                                                         href=""><span>Jacqueline Reid</span>
                 </a>
@@ -161,7 +161,7 @@
                     <div class="d-sm-flex page-heading" data-id="102011"
                          data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/bd/6b/34/bd6b3443-d4c3-26fd-91c8-d0b31ab47ee3/mzaf_8046559398209773051.plus.aac.p.m4a">
                         <div class="media r w w-auto-xs mb-4">
-                            <div class="media-content" style="background-image:url(../assets/img/pastor.jpg)"></div>
+                            <div class="media-content" style="background-image:url(assets/img/pastor.jpg)"></div>
                         </div>
                         <div class="d-md-flex flex">
                             <div class="mx-sm-4 flex"><h1 class="h4 font-weight-bold mb-0 text-highlight title">Prayer and Fasting</h1>
@@ -184,7 +184,7 @@
                                 <div class="d-flex align-items-center">
                                     <div class="media w-56 circle"><a href="music.artist.html"
                                                                       class="media-content ajax"
-                                                                      style="background-image:url(../assets/img/a5.jpg)"></a>
+                                                                      style="background-image:url(assets/img/a5.jpg)"></a>
                                     </div>
                                     <div class="px-3"><a href="music.artist.html" class="text-color ajax">Jacqueline
                                         Reid</a>
@@ -209,7 +209,7 @@
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/04/b6/28/04b62834-121f-b3af-47b3-2485ff499e14/mzaf_4474193750897158038.plus.aac.p.m4a">
                                 <div class="list-item r">
                                     <div class="media"><a href="playlist_detail.php#312058991" class="ajax media-content"
-                                                          style="background-image:url(../assets/img/z1.jpg)"></a>
+                                                          style="background-image:url(assets/img/z1.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
                                                     data-feather="heart" class="active-danger"></i></button>
@@ -244,7 +244,7 @@
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/ca/8c/3d/ca8c3dc7-51cf-78b8-4fbc-7607893c155f/mzaf_6545808409327260529.plus.aac.p.m4a">
                                 <div class="list-item r">
                                     <div class="media"><a href="playlist_detail.php#86035248" class="ajax media-content"
-                                                          style="background-image:url(../assets/img/z3.jpg)"></a>
+                                                          style="background-image:url(assets/img/z3.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
                                                     data-feather="heart" class="active-danger"></i></button>
@@ -279,7 +279,7 @@
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/65/ca/83/65ca8336-2e09-a0bb-a810-2a6b8864e770/mzaf_3545919152242528717.plus.aac.p.m4a">
                                 <div class="list-item r">
                                     <div class="media"><a href="playlist_detail.php#338965882" class="ajax media-content"
-                                                          style="background-image:url(../assets/img/z2.jpg)"></a>
+                                                          style="background-image:url(assets/img/z2.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
                                                     data-feather="heart" class="active-danger"></i></button>
@@ -314,7 +314,7 @@
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/03/c0/60/03c060ce-1617-e556-def2-4fd34d7e1f24/mzaf_8527312642501236756.plus.aac.p.m4a">
                                 <div class="list-item r">
                                     <div class="media"><a href="playlist_detail.php#258710574" class="ajax media-content"
-                                                          style="background-image:url(../assets/img/z5.jpg)"></a>
+                                                          style="background-image:url(assets/img/z5.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
                                                     data-feather="heart" class="active-danger"></i></button>
@@ -349,7 +349,7 @@
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/64/3d/c1/643dc113-29d1-08de-78e2-a4ab4c3f1730/mzaf_5420937162202173294.plus.aac.p.m4a">
                                 <div class="list-item r">
                                     <div class="media"><a href="playlist_detail.php#92570808" class="ajax media-content"
-                                                          style="background-image:url(../assets/img/z4.jpg)"></a>
+                                                          style="background-image:url(assets/img/z4.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
                                                     data-feather="heart" class="active-danger"></i></button>
@@ -391,7 +391,7 @@
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/64/3d/c1/643dc113-29d1-08de-78e2-a4ab4c3f1730/mzaf_5420937162202173294.plus.aac.p.m4a">
                                 <div class="list-item r">
                                     <div class="media"><a href="playlist_detail.php#92570808" class="ajax media-content"
-                                                          style="background-image:url(../assets/img/pastor.jpg)"></a>
+                                                          style="background-image:url(assets/img/pastor.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
                                                     data-feather="heart" class="active-danger"></i></button>
@@ -415,7 +415,7 @@
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/04/b6/28/04b62834-121f-b3af-47b3-2485ff499e14/mzaf_4474193750897158038.plus.aac.p.m4a">
                                 <div class="list-item r">
                                     <div class="media"><a href="playlist_detail.php#312058991" class="ajax media-content"
-                                                          style="background-image:url(../assets/img/minister.jpg)"></a>
+                                                          style="background-image:url(assets/img/minister.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
                                                     data-feather="heart" class="active-danger"></i></button>
@@ -439,7 +439,7 @@
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/bd/6b/34/bd6b3443-d4c3-26fd-91c8-d0b31ab47ee3/mzaf_8046559398209773051.plus.aac.p.m4a">
                                 <div class="list-item r">
                                     <div class="media"><a href="playlist_detail.php#324443962" class="ajax media-content"
-                                                          style="background-image:url(../assets/img/z2.jpg)"></a>
+                                                          style="background-image:url(assets/img/z2.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
                                                     data-feather="heart" class="active-danger"></i></button>
@@ -464,7 +464,7 @@
                                  data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/e2/e2/60/e2e260ca-b3d8-f8a4-1b7c-ffd95eea52c1/mzaf_6400110211813760072.plus.aac.p.m4a">
                                 <div class="list-item r">
                                     <div class="media"><a href="playlist_detail.php#160157606" class="ajax media-content"
-                                                          style="background-image:url(../assets/img/z8.jpg)"></a>
+                                                          style="background-image:url(assets/img/z8.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class><i
                                                     data-feather="heart" class="active-danger"></i></button>
@@ -494,7 +494,7 @@
                                     <div class="list-item r">
                                         <div class="media"><a href="playlist_detail.php#92570808"
                                                               class="ajax media-content"
-                                                              style="background-image:url(../assets/img/pastor.jpg)"></a>
+                                                              style="background-image:url(assets/img/pastor.jpg)"></a>
                                             <div class="media-action">
                                                 <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class>
                                                     <i data-feather="heart" class="active-danger"></i></button>
@@ -519,7 +519,7 @@
                                     <div class="list-item r">
                                         <div class="media"><a href="playlist_detail.php#324443962"
                                                               class="ajax media-content"
-                                                              style="background-image:url(../assets/img/z4.jpg)"></a>
+                                                              style="background-image:url(assets/img/z4.jpg)"></a>
                                             <div class="media-action">
                                                 <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class>
                                                     <i data-feather="heart" class="active-danger"></i></button>
@@ -544,7 +544,7 @@
                                     <div class="list-item r">
                                         <div class="media"><a href="playlist_detail.php#163144443"
                                                               class="ajax media-content"
-                                                              style="background-image:url(../assets/img/z8.jpg)"></a>
+                                                              style="background-image:url(assets/img/z8.jpg)"></a>
                                             <div class="media-action">
                                                 <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class>
                                                     <i data-feather="heart" class="active-danger"></i></button>
@@ -569,7 +569,7 @@
                                     <div class="list-item r">
                                         <div class="media"><a href="playlist_detail.php#263013345"
                                                               class="ajax media-content"
-                                                              style="background-image:url(../assets/img/z3.jpg)"></a>
+                                                              style="background-image:url(assets/img/z3.jpg)"></a>
                                             <div class="media-action">
                                                 <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class>
                                                     <i data-feather="heart" class="active-danger"></i></button>
@@ -594,7 +594,7 @@
                                     <div class="list-item r">
                                         <div class="media"><a href="playlist_detail.php#160157606"
                                                               class="ajax media-content"
-                                                              style="background-image:url(../assets/img/z1.jpg)"></a>
+                                                              style="background-image:url(assets/img/z1.jpg)"></a>
                                             <div class="media-action">
                                                 <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class>
                                                     <i data-feather="heart" class="active-danger"></i></button>
@@ -619,7 +619,7 @@
                                     <div class="list-item r">
                                         <div class="media"><a href="playlist_detail.php#338965882"
                                                               class="ajax media-content"
-                                                              style="background-image:url(../assets/img/z4.jpg)"></a>
+                                                              style="background-image:url(assets/img/z4.jpg)"></a>
                                             <div class="media-action">
                                                 <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class>
                                                     <i data-feather="heart" class="active-danger"></i></button>
@@ -650,6 +650,6 @@
             <div class="text-sm text-muted">Version 1.1.2</div>
         </div>
     </div><!-- ############ Footer END--></div>
-<script src="../assets/js/site.min.js"></script>
+<script src="assets/js/site.min.js"></script>
 </body>
 </html>

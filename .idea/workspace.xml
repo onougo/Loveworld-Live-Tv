@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1740c065-fd23-49a9-b8b8-91aa57de7fd9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/html/create_playlist.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/create_playlist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/create_video.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/create_video.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/edit_video.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/edit_video.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/playlist.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/playlist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/playlist_detail.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/playlist_detail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/settings.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/video.detail.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/video.detail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/video.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/video.php" afterDir="false" />
-    </list>
+    <list default="true" id="1740c065-fd23-49a9-b8b8-91aa57de7fd9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,15 +153,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589155913153</updated>
-      <workItem from="1589155914419" duration="7009000" />
+      <workItem from="1589155914419" duration="7587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7009000" />
+    <option name="totallyTimeSpent" value="7587000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />

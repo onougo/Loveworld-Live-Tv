@@ -5,12 +5,12 @@
     <title>Video Details | Loveworld Live Tv</title>
     <meta name="description" content="Responsive, Bootstrap, BS4">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><!-- style -->
-    <link rel="stylesheet" href="../assets/css/site.min.css">
+    <link rel="stylesheet" href="assets/css/site.min.css">
 </head>
 <body class="layout-column">
 <header id="header" class="page-header bg-white b-b">
     <div class="navbar navbar-expand-lg"><!-- brand --> <a href="index.html" class="navbar-brand w w-auto-sm">
-        <img src="../assets/img/logo.png" alt="..."><span
+        <img src="assets/img/logo.png" alt="..."><span
             class="hidden-folded d-inline l-s-n-1x w w-auto-sm">Loveworld Live Tv</span> </a><!-- / brand -->
         <!-- Navbar collapse -->
         <div class="collapse navbar-collapse order-2 order-lg-1" id="navbarToggler">
@@ -66,7 +66,7 @@
 
                             <div class="list-item" data-id="10">
                                 <div><a href="video.detail.php"><span class="w-32 avatar gd-danger"><img
-                                        src="../assets/img/a10.jpg" alt="."></span></a></div>
+                                                    src="assets/img/a10.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">Developers of <a href="#">@iAI</a>, the AI assistant
                                         based on Free Software
@@ -75,7 +75,7 @@
                             </div>
                             <div class="list-item" data-id="8">
                                 <div><a href="video.detail.php"><span class="w-32 avatar gd-success"><img
-                                        src="../assets/img/a8.jpg" alt="."></span></a></div>
+                                                    src="assets/img/a8.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">The biggest software developer conference</div>
                                 </div>
@@ -88,7 +88,7 @@
                 </div><!-- / dropdown --></li><!-- User dropdown menu -->
             <li class="nav-item dropdown"><a href="#" data-toggle="dropdown"
                                              class="nav-link d-flex align-items-center px-2 text-color"><span
-                    class="avatar w-24" style="margin: -2px"><img src="../assets/img/a0.jpg" alt="..."></span></a>
+                    class="avatar w-24" style="margin: -2px"><img src="assets/img/a0.jpg" alt="..."></span></a>
                 <div class="dropdown-menu dropdown-menu-right w mt-3 animate fadeIn"><a class="dropdown-item"
                                                                                         href=""><span>Jacqueline Reid</span>
                 </a>
@@ -159,7 +159,7 @@
                 <div class="plyrist plyrist_video card" id="plyrist_video" data-plugin="plyr">
                     <div class="d-md-flex">
                         <div class="r-l flex bg-dark">
-                            <img src="../assets/img/pastor.jpg" alt="">
+                            <img src="assets/img/pastor.jpg" alt="">
                             <!--<video controls class="embed-responsive-21by9" width="750px" height="300px"></video>-->
                         </div>
                         <div>
@@ -169,7 +169,7 @@
                                         <li class="plyr-item b-b py-3" data-type="video"
                                             data-source="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-1080p.mp4"
                                             data-poster="../assets/img/b18.jpg"><span class="plyr-item-poster"
-                                                                                      style="background-image:url(../assets/img/b18.jpg)"></span>
+                                                                                      style="background-image:url(assets/img/b18.jpg)"></span>
                                             <small class="plyr-item-title h-2x">View From A Blue Moon - John Florence
                                             </small>
                                         </li>
@@ -177,13 +177,13 @@
                                             data-source="https://youtube.com/watch?v=bTqVqk7FSmY"
                                             data-provider="youtube" data-poster="../assets/img/c16.jpg"><span
                                                 class="plyr-item-poster"
-                                                style="background-image:url(../assets/img/c16.jpg)"></span>
+                                                style="background-image:url(assets/img/c16.jpg)"></span>
                                             <small class="plyr-item-title h-2x">View From A Blue Moon - Youtube</small>
                                         </li>
                                         <li class="plyr-item b-b py-3" data-type="video"
                                             data-source="https://vimeo.com/76979871" data-provider="vimeo"
                                             data-poster="../assets/img/c17.jpg"><span class="plyr-item-poster"
-                                                                                      style="background-image:url(../assets/img/c17.jpg)"></span>
+                                                                                      style="background-image:url(assets/img/c17.jpg)"></span>
                                             <small class="plyr-item-title h-2x">The New Vimeo Player (You Know, For
                                                 Videos)
                                             </small>
@@ -192,7 +192,7 @@
                                             data-source="https://www.youtube.com/watch?v=uJETuRcG79w"
                                             data-provider="youtube" data-poster="../assets/img/c18.jpg"><span
                                                 class="plyr-item-poster"
-                                                style="background-image:url(../assets/img/c18.jpg)"></span>
+                                                style="background-image:url(assets/img/c18.jpg)"></span>
                                             <small class="plyr-item-title h-2x">Hurley Presents "Twelve": A New Series
                                                 From John John Florence
                                             </small>
@@ -245,7 +245,7 @@
                                 <div class="list-item" data-id="6">
                                     <div><a class="media media-16x9 r" href="video.detail.php"><span
                                             class="media-content"
-                                            style="background-image:url(../assets/img/b6.jpg)"></span></a></div>
+                                            style="background-image:url(assets/img/b6.jpg)"></span></a></div>
                                     <div class="flex"><a href="video.detail.php" class="item-author text-color">Wayne
                                         Gray</a>
                                         <div class="item-except text-muted text-sm h-1x">This makes me believe there are
@@ -256,7 +256,7 @@
                                 <div class="list-item" data-id="10">
                                     <div><a class="media media-16x9 r" href="video.detail.php"><span
                                             class="media-content"
-                                            style="background-image:url(../assets/img/b10.jpg)"></span></a></div>
+                                            style="background-image:url(assets/img/b10.jpg)"></span></a></div>
                                     <div class="flex"><a href="video.detail.php" class="item-author text-color">Edward
                                         Clark</a>
                                         <div class="item-except text-muted text-sm h-1x">Leaders are running an AMA on
@@ -267,7 +267,7 @@
                                 <div class="list-item" data-id="11">
                                     <div><a class="media media-16x9 r" href="video.detail.php"><span
                                             class="media-content"
-                                            style="background-image:url(../assets/img/b11.jpg)"></span></a></div>
+                                            style="background-image:url(assets/img/b11.jpg)"></span></a></div>
                                     <div class="flex"><a href="video.detail.php" class="item-author text-color">Kenneth
                                         Pierce</a>
                                         <div class="item-except text-muted text-sm h-1x">@DataAPI Implemented new API
@@ -278,7 +278,7 @@
                                 <div class="list-item" data-id="17">
                                     <div><a class="media media-16x9 r" href="video.detail.php"><span
                                             class="media-content"
-                                            style="background-image:url(../assets/img/b17.jpg)"></span></a></div>
+                                            style="background-image:url(assets/img/b17.jpg)"></span></a></div>
                                     <div class="flex"><a href="video.detail.php" class="item-author text-color">Helen
                                         Valdez</a>
                                         <div class="item-except text-muted text-sm h-1x">AI will highlight & emphasize
@@ -290,7 +290,7 @@
                                 <div class="list-item" data-id="20">
                                     <div><a class="media media-16x9 r" href="video.detail.php"><span
                                             class="media-content"
-                                            style="background-image:url(../assets/img/b20.jpg)"></span></a></div>
+                                            style="background-image:url(assets/img/b20.jpg)"></span></a></div>
                                     <div class="flex"><a href="video.detail.php" class="item-author text-color">Gloria
                                         Williams</a>
                                         <div class="item-except text-muted text-sm h-1x">Netflix hackathon creates eye
@@ -301,7 +301,7 @@
                                 <div class="list-item" data-id="9">
                                     <div><a class="media media-16x9 r" href="video.detail.php"><span
                                             class="media-content"
-                                            style="background-image:url(../assets/img/b9.jpg)"></span></a></div>
+                                            style="background-image:url(assets/img/b9.jpg)"></span></a></div>
                                     <div class="flex"><a href="video.detail.php" class="item-author text-color">Steven
                                         Cruz</a>
                                         <div class="item-except text-muted text-sm h-1x">Build a progressive web app
@@ -321,6 +321,6 @@
     </div><!-- ############ Footer END--></div>
     </div>
 </div>
-<script src="../assets/js/site.min.js"></script>
+<script src="assets/js/site.min.js"></script>
 </body>
 </html>

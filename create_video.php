@@ -2,15 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Edit Video | Loveworld Live Tv</title>
+    <title>Create Video | Loveworld Live Tv</title>
     <meta name="description" content="Responsive, Bootstrap, BS4">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><!-- style -->
-    <link rel="stylesheet" href="../assets/css/site.min.css">
+    <link rel="stylesheet" href="assets/css/site.min.css">
 </head>
 <body class="layout-column">
 <header id="header" class="page-header bg-white b-b">
     <div class="navbar navbar-expand-lg"><!-- brand --> <a href="index.html" class="navbar-brand w w-auto-sm">
-        <img src="../assets/img/logo.png" alt="..."><span
+        <img src="assets/img/logo.png" alt="..."><span
             class="hidden-folded d-inline l-s-n-1x w w-auto-sm">Loveworld Live Tv</span> </a><!-- / brand -->
         <!-- Navbar collapse -->
         <div class="collapse navbar-collapse order-2 order-lg-1" id="navbarToggler">
@@ -66,7 +66,7 @@
 
                             <div class="list-item" data-id="10">
                                 <div><a href="video.detail.php"><span class="w-32 avatar gd-danger"><img
-                                        src="../assets/img/a10.jpg" alt="."></span></a></div>
+                                                    src="assets/img/a10.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">Developers of <a href="#">@iAI</a>, the AI assistant
                                         based on Free Software
@@ -75,7 +75,7 @@
                             </div>
                             <div class="list-item" data-id="8">
                                 <div><a href="video.detail.php"><span class="w-32 avatar gd-success"><img
-                                        src="../assets/img/a8.jpg" alt="."></span></a></div>
+                                                    src="assets/img/a8.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">The biggest software developer conference</div>
                                 </div>
@@ -88,7 +88,7 @@
                 </div><!-- / dropdown --></li><!-- User dropdown menu -->
             <li class="nav-item dropdown"><a href="#" data-toggle="dropdown"
                                              class="nav-link d-flex align-items-center px-2 text-color"><span
-                    class="avatar w-24" style="margin: -2px"><img src="../assets/img/a0.jpg" alt="..."></span></a>
+                    class="avatar w-24" style="margin: -2px"><img src="assets/img/a0.jpg" alt="..."></span></a>
                 <div class="dropdown-menu dropdown-menu-right w mt-3 animate fadeIn"><a class="dropdown-item"
                                                                                         href=""><span>Jacqueline Reid</span>
                 </a>
@@ -158,7 +158,7 @@
         <div>
             <div class="page-hero page-container" id="page-hero">
                 <div class="padding d-flex">
-                    <div class="page-title"><h2 class="text-md text-highlight">Edit Your Video</h2>
+                    <div class="page-title"><h2 class="text-md text-highlight">Create Your Video</h2>
                     </div>
                     <div class="flex"></div>
                 </div>
@@ -166,21 +166,7 @@
             <div class="page-content page-container" id="page-content">
                 <div class="padding">
                     <div class="row">
-                        <div class="col-sm-4">
-                            <div class="media"><a href="#" class="ajax media-content"
-                                                  style="background-image:url(../assets/img/z1.jpg); width: 350px; height: 295px"></a>
-                                <div class="media-action ">
-                                    <button class="btn btn-icon hide-row" data-toggle-class><i
-                                            data-feather="heart" class="active-danger"></i></button>
-                                    <button class="btn btn-raised btn-icon btn-rounded bg--white btn-play"></button>
-                                    <button class="btn btn-icon  hide-row btn-more"
-                                            data-toggle="dropdown"><i data-feather="more-horizontal"></i>
-                                    </button>
-                                    <div class="dropdown-menu dropdown-menu-right"></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
+                        <div class="col-sm-12">
                             <form data-plugin="parsley" data-option="{}">
                                 <div class="card">
                                     <div class="card-header"><p class="text-muted">Please fill the information correctly</p></div>
@@ -189,7 +175,7 @@
                                             <div class="form-group col-sm-6"><label>Title</label><input type="text"
                                                                                                   class="form-control"
                                                                                                   required></div>
-                                            <div class="form-group col-sm-6"><label>Video Categories</label><input type="text"
+                                            <div class="form-group col-sm-6"><label>Video Category</label><input type="text"
                                                                                                class="form-control"
                                                                                                required></div>
                                         </div>
@@ -202,7 +188,7 @@
                                         </div>
 
                                         <div class="text-right">
-                                            <button type="submit" class="btn btn-success">Update</button>
+                                            <button type="submit" class="btn btn-primary">Submit</button>
                                         </div>
                                     </div>
                                 </div>
@@ -217,6 +203,6 @@
             <div class="text-sm text-muted">Version 1.1.2</div>
         </div>
     </div><!-- ############ Footer END--></div>
-<script src="../assets/js/site.min.js"></script>
+<script src="assets/js/site.min.js"></script>
 </body>
 </html>

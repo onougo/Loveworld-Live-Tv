@@ -5,12 +5,12 @@
     <title>Create Playlist | Loveworld Live Tv</title>
     <meta name="description" content="Responsive, Bootstrap, BS4">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><!-- style -->
-    <link rel="stylesheet" href="../assets/css/site.min.css">
+    <link rel="stylesheet" href="assets/css/site.min.css">
 </head>
 <body class="layout-column">
 <header id="header" class="page-header bg-white b-b">
     <div class="navbar navbar-expand-lg"><!-- brand --> <a href="index.html" class="navbar-brand w w-auto-sm">
-        <img src="../assets/img/logo.png" alt="..."><span
+        <img src="assets/img/logo.png" alt="..."><span
             class="hidden-folded d-inline l-s-n-1x w w-auto-sm">Loveworld Live Tv</span> </a><!-- / brand -->
         <!-- Navbar collapse -->
         <div class="collapse navbar-collapse order-2 order-lg-1" id="navbarToggler">
@@ -66,7 +66,7 @@
 
                             <div class="list-item" data-id="10">
                                 <div><a href="video.detail.php"><span class="w-32 avatar gd-danger"><img
-                                        src="../assets/img/a10.jpg" alt="."></span></a></div>
+                                                    src="assets/img/a10.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">Developers of <a href="#">@iAI</a>, the AI assistant
                                         based on Free Software
@@ -75,7 +75,7 @@
                             </div>
                             <div class="list-item" data-id="8">
                                 <div><a href="video.detail.php"><span class="w-32 avatar gd-success"><img
-                                        src="../assets/img/a8.jpg" alt="."></span></a></div>
+                                                    src="assets/img/a8.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">The biggest software developer conference</div>
                                 </div>
@@ -88,7 +88,7 @@
                 </div><!-- / dropdown --></li><!-- User dropdown menu -->
             <li class="nav-item dropdown"><a href="#" data-toggle="dropdown"
                                              class="nav-link d-flex align-items-center px-2 text-color"><span
-                    class="avatar w-24" style="margin: -2px"><img src="../assets/img/a0.jpg" alt="..."></span></a>
+                    class="avatar w-24" style="margin: -2px"><img src="assets/img/a0.jpg" alt="..."></span></a>
                 <div class="dropdown-menu dropdown-menu-right w mt-3 animate fadeIn"><a class="dropdown-item"
                                                                                         href=""><span>Jacqueline Reid</span>
                 </a>
@@ -203,6 +203,6 @@
             <div class="text-sm text-muted">Version 1.1.2</div>
         </div>
     </div><!-- ############ Footer END--></div>
-<script src="../assets/js/site.min.js"></script>
+<script src="assets/js/site.min.js"></script>
 </body>
 </html>

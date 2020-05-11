@@ -5,12 +5,12 @@
     <title>Playlist | Loveworld Live Tv</title>
     <meta name="description" content="Responsive, Bootstrap, BS4">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><!-- style -->
-    <link rel="stylesheet" href="../assets/css/site.min.css">
+    <link rel="stylesheet" href="assets/css/site.min.css">
 </head>
 <body class="layout-column">
 <header id="header" class="page-header bg-white b-b">
     <div class="navbar navbar-expand-lg"><!-- brand --> <a href="index.html" class="navbar-brand w w-auto-sm">
-        <img src="../assets/img/logo.png" alt="..."><span
+        <img src="assets/img/logo.png" alt="..."><span
             class="hidden-folded d-inline l-s-n-1x w w-auto-sm">Loveworld Live Tv</span> </a><!-- / brand -->
         <!-- Navbar collapse -->
         <div class="collapse navbar-collapse order-2 order-lg-1" id="navbarToggler">
@@ -66,7 +66,7 @@
 
                             <div class="list-item" data-id="10">
                                 <div><a href="video.detail.php"><span class="w-32 avatar gd-danger"><img
-                                        src="../assets/img/a10.jpg" alt="."></span></a></div>
+                                                    src="assets/img/a10.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">Developers of <a href="#">@iAI</a>, the AI assistant
                                         based on Free Software
@@ -75,7 +75,7 @@
                             </div>
                             <div class="list-item" data-id="8">
                                 <div><a href="video.detail.php"><span class="w-32 avatar gd-success"><img
-                                        src="../assets/img/a8.jpg" alt="."></span></a></div>
+                                                    src="assets/img/a8.jpg" alt="."></span></a></div>
                                 <div class="flex">
                                     <div class="item-feed h-2x">The biggest software developer conference</div>
                                 </div>
@@ -88,7 +88,7 @@
                 </div><!-- / dropdown --></li><!-- User dropdown menu -->
             <li class="nav-item dropdown"><a href="#" data-toggle="dropdown"
                                              class="nav-link d-flex align-items-center px-2 text-color"><span
-                    class="avatar w-24" style="margin: -2px"><img src="../assets/img/a0.jpg" alt="..."></span></a>
+                    class="avatar w-24" style="margin: -2px"><img src="assets/img/a0.jpg" alt="..."></span></a>
                 <div class="dropdown-menu dropdown-menu-right w mt-3 animate fadeIn"><a class="dropdown-item"
                                                                                         href=""><span>Jacqueline Reid</span>
                 </a>
@@ -159,7 +159,7 @@
                 <div class="bg-black">
                     <div class="list-item list-overlay">
                         <div class="media"><a href="" class="ajax media-content"
-                                              style="background-image:url(../assets/img/minister.jpg)"></a>
+                                              style="background-image:url(assets/img/minister.jpg)"></a>
                             <div class="media-action"></div>
                         </div>
                         <div class="list-content">
@@ -216,7 +216,7 @@
                             <div class="list-item">
                                 <div class="media media-16x9"><a href="video.detail.php#53754394"
                                                                  class="ajax media-content"
-                                                                 style="background-image:url(../assets/img/z1.jpg)"></a>
+                                                                 style="background-image:url(assets/img/z1.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
                                             class="badge badge-md text-uppercase bg-dark-overlay">12:20</span></a></div>
                                     <div class="media-action"></div>
@@ -236,7 +236,7 @@
                             <div class="list-item">
                                 <div class="media media-16x9"><a href="video.detail.php#312058991"
                                                                  class="ajax media-content"
-                                                                 style="background-image:url(../assets/img/z2.jpg)"></a>
+                                                                 style="background-image:url(assets/img/z2.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
                                             class="badge badge-md text-uppercase bg-dark-overlay">12:20</span></a></div>
                                     <div class="media-action"></div>
@@ -256,7 +256,7 @@
                             <div class="list-item">
                                 <div class="media media-16x9"><a href="video.detail.php#338965882"
                                                                  class="ajax media-content"
-                                                                 style="background-image:url(../assets/img/z3.jpg)"></a>
+                                                                 style="background-image:url(assets/img/z3.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
                                             class="badge badge-md text-uppercase bg-dark-overlay">12:20</span></a></div>
                                     <div class="media-action"></div>
@@ -276,7 +276,7 @@
                             <div class="list-item">
                                 <div class="media media-16x9"><a href="video.detail.php#160157606"
                                                                  class="ajax media-content"
-                                                                 style="background-image:url(../assets/img/z4.jpg)"></a>
+                                                                 style="background-image:url(assets/img/z4.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
                                             class="badge badge-md text-uppercase bg-dark-overlay">12:20</span></a></div>
                                     <div class="media-action"></div>
@@ -296,7 +296,7 @@
                             <div class="list-item">
                                 <div class="media media-16x9"><a href="video.detail.php#160157606"
                                                                  class="ajax media-content"
-                                                                 style="background-image:url(../assets/img/z5.jpg)"></a>
+                                                                 style="background-image:url(assets/img/z5.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
                                             class="badge badge-md text-uppercase bg-dark-overlay">12:20</span></a></div>
                                     <div class="media-action"></div>
@@ -316,7 +316,7 @@
                             <div class="list-item">
                                 <div class="media media-16x9"><a href="video.detail.php#160157606"
                                                                  class="ajax media-content"
-                                                                 style="background-image:url(../assets/img/z4.jpg)"></a>
+                                                                 style="background-image:url(assets/img/z4.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
                                             class="badge badge-md text-uppercase bg-dark-overlay">12:20</span></a></div>
                                     <div class="media-action"></div>
@@ -336,7 +336,7 @@
                             <div class="list-item">
                                 <div class="media media-16x9"><a href="video.detail.php#160157606"
                                                                  class="ajax media-content"
-                                                                 style="background-image:url(../assets/img/z1.jpg)"></a>
+                                                                 style="background-image:url(assets/img/z1.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
                                             class="badge badge-md text-uppercase bg-dark-overlay">12:20</span></a></div>
                                     <div class="media-action"></div>
@@ -356,7 +356,7 @@
                             <div class="list-item">
                                 <div class="media media-16x9"><a href="video.detail.php#160157606"
                                                                  class="ajax media-content"
-                                                                 style="background-image:url(../assets/img/z2.jpg)"></a>
+                                                                 style="background-image:url(assets/img/z2.jpg)"></a>
                                     <div class="media-overlay overlay-bottom"><a href="#"><span
                                             class="badge badge-md text-uppercase bg-dark-overlay">12:20</span></a></div>
                                     <div class="media-action"></div>
@@ -379,6 +379,6 @@
             <div class="text-sm text-muted">Version 1.1.2</div>
         </div>
     </div><!-- ############ Footer END--></div>
-<script src="../assets/js/site.min.js"></script>
+<script src="assets/js/site.min.js"></script>
 </body>
 </html>
