@@ -148,9 +148,6 @@
             </div><!-- sidenav bottom -->
             <div class="no-shrink">
                 <div class="p-3 d-flex align-items-center">
-                    <div class="progress mx-2 flex" style="height:4px">
-                        <div class="progress-bar gd-success" style="width: 35%"></div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -396,7 +393,7 @@
                                 <div class="p-3-4">
                                     <div class="d-flex">
                                         <div>
-                                            <div>Recent Playlists</div>
+                                            <div>Recent Videos</div>
                                             <small class="text-muted">Total: 1230</small>
                                         </div>
                                         <span class="flex"></span>
