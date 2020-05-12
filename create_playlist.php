@@ -98,7 +98,10 @@
                     <a class="dropdown-item" href="settings.php"><span>Account Settings</span> </a><a
                             class="dropdown-item" href="signin.1.html">Sign out</a></div>
             </li><!-- Navarbar toggle btn -->
-
+            <li class="nav-item d-lg-none"><a href="#" class="nav-link px-2" data-toggle="collapse" data-toggle-class
+                                              data-target="#navbarToggler"><i data-feather="search"></i></a></li>
+            <li class="nav-item d-lg-none"><a class="nav-link px-1" data-toggle="modal" data-target="#aside"><i
+                            data-feather="menu"></i></a></li>
         </ul>
     </div>
 </header>
