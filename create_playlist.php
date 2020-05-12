@@ -148,10 +148,6 @@
             </div><!-- sidenav bottom -->
             <div class="no-shrink">
                 <div class="p-3 d-flex align-items-center">
-                    <div class="text-sm hidden-folded text-muted">Trial: 35%</div>
-                    <div class="progress mx-2 flex" style="height:4px">
-                        <div class="progress-bar gd-success" style="width: 35%"></div>
-                    </div>
                 </div>
             </div>
         </div>
