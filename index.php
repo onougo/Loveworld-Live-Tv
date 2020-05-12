@@ -148,7 +148,6 @@
             </div><!-- sidenav bottom -->
             <div class="no-shrink">
                 <div class="p-3 d-flex align-items-center">
-                    <div class="text-sm hidden-folded text-muted">Trial: 35%</div>
                     <div class="progress mx-2 flex" style="height:4px">
                         <div class="progress-bar gd-success" style="width: 35%"></div>
                     </div>
@@ -178,8 +177,8 @@
                                         <div class="avatar w-56 m-2 no-shadow gd-primary"><i
                                                 data-feather="film"></i></div>
                                         <div class="px-4 flex">
-                                            <div>Playlist</div>
-                                            <div class="text-primary mt-2">2.50%</div>
+                                            <div>Total Playlist</div>
+                                            <div class="text-primary mt-2">250</div>
                                         </div>
                                         <a href="#" class="text-muted"><i data-feather="arrow-right"></i></a></div>
                                 </div>
@@ -190,10 +189,10 @@
                                 <div class="card-body">
                                     <div class="d-flex align-items-center text-hover-success">
                                         <div class="avatar w-56 m-2 no-shadow gd-primary"><i
-                                                data-feather="message-circle"></i></div>
+                                                data-feather="video"></i></div>
                                         <div class="px-4 flex">
-                                            <div>Comments</div>
-                                            <div class="text-primary mt-2">3.50%</div>
+                                            <div>Total Videos</div>
+                                            <div class="text-primary mt-2">50</div>
                                         </div>
                                         <a href="#" class="text-muted"><i data-feather="arrow-right"></i></a></div>
                                 </div>
@@ -204,10 +203,10 @@
                                 <div class="card-body">
                                     <div class="d-flex align-items-center text-hover-success">
                                         <div class="avatar w-56 m-2 no-shadow gd-primary"><i
-                                                data-feather="voicemail"></i></div>
+                                                data-feather="users"></i></div>
                                         <div class="px-4 flex">
-                                            <div>Views</div>
-                                            <div class="text-primary mt-2">7.50%</div>
+                                            <div>Total Users</div>
+                                            <div class="text-primary mt-2">750</div>
                                         </div>
                                         <a href="#" class="text-muted"><i data-feather="arrow-right"></i></a></div>
                                 </div>
@@ -239,7 +238,7 @@
                                         </td>
                                         <td class="flex"><a href="page.invoice.detail.html"
                                                             class="item-company ajax h-1x">Edwin Idongesit</a>
-                                            <div class="item-mail text-muted h-1x d-none d-sm-block">
+                                            <div class="item-mail h-1x d-none d-sm-block">
                                                 This Sermon is so awesome and i was blessed.
                                             </div>
                                         </td>
@@ -255,7 +254,7 @@
                                         </td>
                                         <td class="flex"><a href="page.invoice.detail.html"
                                                             class="item-company ajax h-1x">Glory Nwa</a>
-                                            <div class="item-mail text-muted h-1x d-none d-sm-block">
+                                            <div class="item-mail h-1x d-none d-sm-block">
                                                 What an awesome service!.
                                             </div>
                                         </td>
@@ -271,7 +270,7 @@
                                         </td>
                                         <td class="flex"><a href="page.invoice.detail.html"
                                                             class="item-company ajax h-1x">Libral Lawrence</a>
-                                            <div class="item-mail text-muted h-1x d-none d-sm-block">
+                                            <div class="item-mail h-1x d-none d-sm-block">
                                                 Awesome and Excellent.
                                             </div>
                                         </td>
@@ -287,7 +286,7 @@
                                         </td>
                                         <td class="flex"><a href="page.invoice.detail.html"
                                                             class="item-company ajax h-1x">Marvelous Praise</a>
-                                            <div class="item-mail text-muted h-1x d-none d-sm-block">
+                                            <div class="item-mail h-1x d-none d-sm-block">
                                                 God bless the man of God!.
                                             </div>
                                         </td>
@@ -383,6 +382,100 @@
                                                      role="menu"><a class="dropdown-item" href="#">See
                                                     detail </a><a
                                                         class="dropdown-item edit">Edit</a>
+                                                    <div class="dropdown-divider"></div>
+                                                    <a class="dropdown-item trash">Delete item</a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 d-flex">
+                            <div class="card flex">
+                                <div class="p-3-4">
+                                    <div class="d-flex">
+                                        <div>
+                                            <div>Recent Playlists</div>
+                                            <small class="text-muted">Total: 1230</small>
+                                        </div>
+                                        <span class="flex"></span>
+                                        <div><a href="#" class="btn btn-sm btn-white">More</a></div>
+                                    </div>
+                                </div>
+                                <div class="list list-row">
+                                    <div class="list-item" data-id="6">
+                                        <div><a class="media media-16x9 r" href="video.detail.php"><span
+                                                        class="media-content"
+                                                        style="background-image:url(assets/img/z1.jpg)"></span></a></div>
+                                        <div class="flex"><a href="video.detail.php" class="item-author text-color">Rhapsody Of Realities</a>
+                                        </div>
+                                        <div>
+                                            <div class="item-action dropdown"><a href="#" data-toggle="dropdown"
+                                                                                 class="text-muted"><i
+                                                            data-feather="more-vertical"></i></a>
+                                                <div class="dropdown-menu dropdown-menu-right bg-light"
+                                                     role="menu"><a class="dropdown-item" href="#">See
+                                                        detail </a><a
+                                                            class="dropdown-item edit">Edit</a>
+                                                    <div class="dropdown-divider"></div>
+                                                    <a class="dropdown-item trash">Delete item</a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="list-item" data-id="10">
+                                        <div><a class="media media-16x9 r" href="video.detail.php"><span
+                                                        class="media-content"
+                                                        style="background-image:url(assets/img/z2.jpg)"></span></a></div>
+                                        <div class="flex"><a href="#" class="item-author text-color">Endtime Army</a>
+
+                                        </div>
+                                        <div>
+                                            <div class="item-action dropdown"><a href="#" data-toggle="dropdown"
+                                                                                 class="text-muted"><i
+                                                            data-feather="more-vertical"></i></a>
+                                                <div class="dropdown-menu dropdown-menu-right bg-light"
+                                                     role="menu"><a class="dropdown-item" href="#">See
+                                                        detail </a><a
+                                                            class="dropdown-item edit">Edit</a>
+                                                    <div class="dropdown-divider"></div>
+                                                    <a class="dropdown-item trash">Delete item</a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="list-item" data-id="11">
+                                        <div><a class="media media-16x9 r" href="video.detail.php"><span
+                                                        class="media-content"
+                                                        style="background-image:url(assets/img/z3.jpg)"></span></a></div>
+                                        <div class="flex"><a href="#" class="item-author text-color">Prayathon</a>
+                                        </div>
+                                        <div>
+                                            <div class="item-action dropdown"><a href="#" data-toggle="dropdown"
+                                                                                 class="text-muted"><i
+                                                            data-feather="more-vertical"></i></a>
+                                                <div class="dropdown-menu dropdown-menu-right bg-light"
+                                                     role="menu"><a class="dropdown-item" href="#">See
+                                                        detail </a><a
+                                                            class="dropdown-item edit">Edit</a>
+                                                    <div class="dropdown-divider"></div>
+                                                    <a class="dropdown-item trash">Delete item</a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="list-item" data-id="17">
+                                        <div><a class="media media-16x9 r" href="video.detail.php"><span
+                                                        class="media-content"
+                                                        style="background-image:url(assets/img/z4.jpg)"></span></a></div>
+                                        <div class="flex"><a href="video.detail.php" class="item-author text-color">Communion Service</a>
+                                        </div>
+                                        <div>
+                                            <div class="item-action dropdown"><a href="#" data-toggle="dropdown"
+                                                                                 class="text-muted"><i
+                                                            data-feather="more-vertical"></i></a>
+                                                <div class="dropdown-menu dropdown-menu-right bg-light"
+                                                     role="menu"><a class="dropdown-item" href="#">See
+                                                        detail </a><a
+                                                            class="dropdown-item edit">Edit</a>
                                                     <div class="dropdown-divider"></div>
                                                     <a class="dropdown-item trash">Delete item</a></div>
                                             </div>
