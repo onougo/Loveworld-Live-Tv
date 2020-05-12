@@ -12858,7 +12858,8 @@ a.list-group-item.hover, a.list-group-item:focus, a.list-group-item:hover {
     align-items: center;
     -ms-flex-negative: 0;
     flex-shrink: 0;
-    opacity: .65
+    opacity: .65;
+    color: white;
 }
 
 .active > a > .nav-icon, a:active > .nav-icon, a:hover > .nav-icon {
