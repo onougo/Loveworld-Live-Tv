@@ -12865,7 +12865,7 @@ a.list-group-item.hover, a.list-group-item:focus, a.list-group-item:hover {
 }
 
 .nav-icon.no-fade {
-    opacity: 4
+    opacity: 1
 }
 
 .nav-icon i {
