@@ -172,7 +172,7 @@
                         <div class="col-sm-12">
                             <form data-plugin="parsley" data-option="{}">
                                 <div class="card">
-                                    <div class="card-header"><p class="text-muted">Please fill the information correctly</p></div>
+                                    <div class="card-header"><p>Please fill the information correctly</p></div>
                                     <div class="card-body">
                                         <div class="form-row">
                                             <div class="form-group col-sm-6"><label>Title</label><input type="text"

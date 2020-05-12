@@ -229,7 +229,7 @@
                                                               class="list-title title ajax h-1x">31st Night Service</a>
                                     </div>
                                     <div class="list-footer">
-                                        <div class="text-muted text-sm">Feb 30, 5:33 am</div>
+                                        <div class="text-sm">Feb 30, 5:33 am</div>
                                     </div>
                                 </div>
                             </div>
@@ -248,7 +248,7 @@
                                     <div class="list-body"><a href="video.detail.php#312058991"
                                                               class="list-title title ajax h-1x">Communion Service</a></div>
                                     <div class="list-footer">
-                                        <div class="text-muted text-sm">Feb 9, 1:26 am</div>
+                                        <div class="text-sm">Feb 9, 1:26 am</div>
                                     </div>
                                 </div>
                             </div>
@@ -268,7 +268,7 @@
                                     <div class="list-body"><a href="video.detail.php#338965882"
                                                               class="list-title title ajax h-1x">Prayer adn Fasting</a></div>
                                     <div class="list-footer">
-                                        <div class="text-muted text-sm">Feb 30, 5:42 am</div>
+                                        <div class="text-sm">Feb 30, 5:42 am</div>
                                     </div>
                                 </div>
                             </div>
@@ -288,7 +288,7 @@
                                     <div class="list-body"><a href="video.detail.php#160157606"
                                                               class="list-title title ajax h-1x">Obedience is Best</a></div>
                                     <div class="list-footer">
-                                        <div class="text-muted text-sm">Feb 20, 5:35 am</div>
+                                        <div class="text-sm">Feb 20, 5:35 am</div>
                                     </div>
                                 </div>
                             </div>
@@ -308,7 +308,7 @@
                                     <div class="list-body"><a href="video.detail.php#160157606"
                                                               class="list-title title ajax h-1x">Year of Perfection</a></div>
                                     <div class="list-footer">
-                                        <div class="text-muted text-sm">Feb 20, 5:35 am</div>
+                                        <div class="text-sm">Feb 20, 5:35 am</div>
                                     </div>
                                 </div>
                             </div>
@@ -328,7 +328,7 @@
                                     <div class="list-body"><a href="video.detail.php#160157606"
                                                               class="list-title title ajax h-1x">The Word of God</a></div>
                                     <div class="list-footer">
-                                        <div class="text-muted text-sm">Feb 20, 5:35 am</div>
+                                        <div class="text-sm">Feb 20, 5:35 am</div>
                                     </div>
                                 </div>
                             </div>
@@ -348,7 +348,7 @@
                                     <div class="list-body"><a href="video.detail.php#160157606"
                                                               class="list-title title ajax h-1x">The Holyspirit</a></div>
                                     <div class="list-footer">
-                                        <div class="text-muted text-sm">Feb 20, 5:35 am</div>
+                                        <div class="text-sm">Feb 20, 5:35 am</div>
                                     </div>
                                 </div>
                             </div>
@@ -368,7 +368,7 @@
                                     <div class="list-body"><a href="video.detail.php#160157606"
                                                               class="list-title title ajax h-1x">Prayers</a></div>
                                     <div class="list-footer">
-                                        <div class="text-muted text-sm">Feb 20, 5:35 am</div>
+                                        <div class="text-sm">Feb 20, 5:35 am</div>
                                     </div>
                                 </div>
                             </div>
