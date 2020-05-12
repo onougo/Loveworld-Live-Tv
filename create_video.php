@@ -172,7 +172,7 @@
                         <div class="col-sm-12">
                             <form data-plugin="parsley" data-option="{}">
                                 <div class="card">
-                                    <div class="card-header"><p class="text-muted">Please fill the information correctly</p></div>
+                                    <div class="card-header"><p>Please fill the information correctly</p></div>
                                     <div class="card-body">
                                         <div class="form-row">
                                             <div class="form-group col-sm-6"><label>Title</label><input type="text"
@@ -200,10 +200,11 @@
                     </div>
                 </div>
             </div>
+        </div>
         </div><!-- ############ Main END--></div><!-- ############ Content END--><!-- ############ Footer START-->
     <div id="footer" class="page-footer hide">
-        <div class="d-flex p-3"><span class="text-sm text-muted flex">&copy; Copyright. Internet Multimedia</span>
-            <div class="text-sm text-muted">Version 1.1.2</div>
+        <div class="d-flex p-3"><span class="text-sm flex">&copy; Copyright. Internet Multimedia</span>
+            <div class="text-sm">Version 1.1.2</div>
         </div>
     </div><!-- ############ Footer END--></div>
 <script src="assets/js/site.min.js"></script>

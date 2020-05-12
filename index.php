@@ -162,7 +162,7 @@
             <div class="page-hero page-container" id="page-hero">
                 <div class="padding d-flex">
                     <div class="page-title"><h2 class="text-md text-highlight">Dashboard</h2>
-                        <small class="text-muted">Welcome, <strong>Marvelous Praise</strong></small>
+                        <small>Welcome, <strong>Marvelous Praise</strong></small>
                     </div>
                     <div class="flex"></div>
                 </div>
@@ -397,8 +397,8 @@
             </div>
         </div><!-- ############ Main END--></div><!-- ############ Content END--><!-- ############ Footer START-->
     <div id="footer" class="page-footer">
-        <div class="d-flex p-3"><span class="text-sm text-muted flex">&copy; Copyright. Internet Multimedia</span>
-            <div class="text-sm text-muted">Version 1.1.2</div>
+        <div class="d-flex p-3"><span class="text-sm flex">&copy; Copyright. Internet Multimedia</span>
+            <div class="text-sm">Version 1.1.2</div>
         </div>
     </div><!-- ############ Footer END--></div>
 <script src="assets/js/site.min.js"></script>
