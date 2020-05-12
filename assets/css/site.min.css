@@ -10650,7 +10650,8 @@ a.list-group-item.hover, a.list-group-item:focus, a.list-group-item:hover {
 
 .navbar-brand > span {
     margin: 0 .5rem;
-    font-weight: 600
+    font-weight: 600;
+    color: #244ac4;
 }
 
 .navbar-brand img, .navbar-brand svg {
@@ -12752,7 +12753,7 @@ a.list-group-item.hover, a.list-group-item:focus, a.list-group-item:hover {
 .sidenav .nav {
     border: inherit;
     display: block;
-    background-color: #448bff;
+    background-color: #244ac4;
 }
 
 .sidenav .nav li {
@@ -14633,7 +14634,7 @@ div.jqvmap-zoomin, div.jqvmap-zoomout {
 
 .scrollable.hover {
     overflow-y: hidden;
-    background-color: #448bff;
+    background-color: #244ac4;
 }
 
 .scrollable.hover > * {
