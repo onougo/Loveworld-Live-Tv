@@ -51,41 +51,7 @@
                                 type="radio" name="bg" value="bg-dark"> <i class="bg-dark"></i></label></div>
                     </div>
                 </div><!-- ############ Setting END--></li><!-- Notification -->
-            <li class="nav-item dropdown"><a class="nav-link px-2 mr-lg-2" data-toggle="dropdown"><i
-                    data-feather="bell"></i> <span class="badge badge-pill badge-up bg-primary">5</span> </a>
-                <!-- dropdown -->
-                <div class="dropdown-menu dropdown-menu-right mt-3 w-md animate fadeIn p-0">
-                    <div class="scrollable hover" style="max-height: 250px">
-                        <div class="list list-row">
-                            <div class="list-item" data-id="13">
-                                <div><a href="video.detail.php"><span class="w-32 avatar gd-primary">L</span></a></div>
-                                <div class="flex">
-                                    <div class="item-feed h-2x">Thanks! Awesome to see good support on Twitter</div>
-                                </div>
-                            </div>
 
-                            <div class="list-item" data-id="10">
-                                <div><a href="video.detail.php"><span class="w-32 avatar gd-danger"><img
-                                                    src="assets/img/a10.jpg" alt="."></span></a></div>
-                                <div class="flex">
-                                    <div class="item-feed h-2x">Developers of <a href="#">@iAI</a>, the AI assistant
-                                        based on Free Software
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="list-item" data-id="8">
-                                <div><a href="video.detail.php"><span class="w-32 avatar gd-success"><img
-                                                    src="assets/img/a8.jpg" alt="."></span></a></div>
-                                <div class="flex">
-                                    <div class="item-feed h-2x">The biggest software developer conference</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="d-flex px-3 py-2 b-t">
-                        <div class="flex"><span>6 Notifications</span></div>
-                        <a href="page.setting.html">See all <i class="fa fa-angle-right text-muted"></i></a></div>
-                </div><!-- / dropdown --></li><!-- User dropdown menu -->
             <li class="nav-item dropdown"><a href="#" data-toggle="dropdown"
                                              class="nav-link d-flex align-items-center px-2 text-color"><span
                     class="avatar w-24" style="margin: -2px"><img src="assets/img/a0.jpg" alt="..."></span></a>
@@ -781,8 +747,8 @@
                 </div>
             </div><!-- ############ Main END--></div><!-- ############ Content END--><!-- ############ Footer START-->
         <div id="footer" class="page-footer">
-            <div class="d-flex p-3"><span class="text-sm text-muted flex">&copy; Copyright. Internet Multimedia</span>
-                <div class="text-sm text-muted">Version 1.1.2</div>
+            <div class="d-flex p-3"><span class="text-sm flex">&copy; Copyright. Internet Multimedia</span>
+                <div class="text-sm ">Version 1.1.2</div>
             </div>
         </div><!-- ############ Footer END--></div>
     </div>
